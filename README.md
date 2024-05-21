@@ -4,6 +4,9 @@
 <h2>:page_with_curl: Description</h2>
 <p id="description">Esta é uma Landing Page feita com HTML, CSS e JavaScript para um blog sobre mergulho.</p>
 
+Tópicos Abordados:
+- Mobile First
+
 <h2>💻 Built with</h2>
 
 <div align="left">
